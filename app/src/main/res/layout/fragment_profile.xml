@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.greeve.greeve.ui.greeve.profile.ProfileFragment">
+
+    <RelativeLayout
+        android:id="@+id/rv_layout_profile"
+        android:layout_marginTop="36dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@drawable/img_hero"
+            android:layout_centerVertical="true"
+            android:id="@+id/img_profile"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp" />
+        <TextView
+            android:layout_marginTop="24dp"
+            android:text="Rayhan A"
+            android:gravity="center_horizontal"
+            android:id="@+id/tv_nama_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_profile"/>
+    </RelativeLayout>
+    <Button
+        android:layout_marginTop="24dp"
+        android:text="Edit"
+        android:id="@+id/btn_edit_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"/>
+    <Button
+        android:id="@+id/btn_keranjang"
+        android:text="Keranjang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"/>
+    <Button
+        android:id="@+id/btn_riwayat_pemesanan"
+        android:text="Riwayat pemesanan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"/>
+    <Button
+        android:id="@+id/btn_koleksi"
+        android:text="koleksi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"/>
+</LinearLayout>

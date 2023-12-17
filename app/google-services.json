@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619394264575",
+    "firebase_url": "https://greeve-gr.firebaseio.com",
+    "project_id": "greeve-gr",
+    "storage_bucket": "greeve-gr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619394264575:android:40c59487a85c8f39764bca",
+        "android_client_info": {
+          "package_name": "com.greeve.greeve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619394264575-78j8cogae3nf12luad11lk8i0b03n9mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greeve.greeve",
+            "certificate_hash": "3e68b84ed70107ae93bae20df41ad5a9bf7b6420"
+          }
+        },
+        {
+          "client_id": "619394264575-ibkotqji2qisv8d399tisvvcjjqg46h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCB92cEvNfTsuvWaBHqJr_oEjdOg694m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619394264575-ibkotqji2qisv8d399tisvvcjjqg46h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

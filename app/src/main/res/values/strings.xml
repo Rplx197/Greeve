@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Greeve</string>
+
+    <string name="gv_login_title">Welcome to Greeve</string>
+    <string name="gv_login_desc"> Manfaatkan sampah dengan kreatifitasmu. \n
+        Selamatkan lingkungan bersama \n Aplikasi Greeve!</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up_with_google">Mulai dengan Akun Google</string>
+    <string name="tv_title">Title</string>
+    <string name="greeve_writer">Greeve Writer</string>
+    <string name="greeve_writer_name">Rayhan A</string>
+    <string name="tv_title_videos">Title Videos</string>
+    <string name="article_title">Article Title</string>
+    <string name="link1">https://greevelaw.files.wordpress.com/2020/02/screenshot_2020-02-21-mengurangi-sampah-popok-mengolahnya-menjadi-pupuk-e28094-zerowaste-id.png</string>
+</resources>
